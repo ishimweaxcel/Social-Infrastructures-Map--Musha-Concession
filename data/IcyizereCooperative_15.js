@@ -1,0 +1,1 @@
+var json_IcyizereCooperative_15 = {"type":"FeatureCollection","name":"IcyizereCooperative_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Name":"Icyizere Cooperative"},"geometry":{"type":"Point","coordinates":[30.333559462000039,-1.936200945999929]}}]}
